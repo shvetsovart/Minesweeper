@@ -1,0 +1,10 @@
+﻿  Sapyor1.cpp
+C:\Users\shvet\source\repos\Sapyor1\Sapyor1\Sapyor1.cpp(15,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shvet\source\repos\Sapyor1\Sapyor1\Sapyor1.cpp(16,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shvet\source\repos\Sapyor1\Sapyor1\Sapyor1.cpp(24,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shvet\source\repos\Sapyor1\Sapyor1\Sapyor1.cpp(25,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shvet\source\repos\Sapyor1\Sapyor1\Sapyor1.cpp(95,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shvet\source\repos\Sapyor1\Sapyor1\Sapyor1.cpp(96,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shvet\source\repos\Sapyor1\Sapyor1\Sapyor1.cpp(375,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shvet\source\repos\Sapyor1\Sapyor1\Sapyor1.cpp(434,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Sapyor1.vcxproj -> C:\Users\shvet\source\repos\Sapyor1\Debug\Sapyor1.exe
