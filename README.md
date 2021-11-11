@@ -1,4 +1,7 @@
 # sapyor
+
+It's a console game made as a Tinkoff Generation task.
+
 How to play:
 
 At first type "New" or "Load" to play a new game or load last game.
